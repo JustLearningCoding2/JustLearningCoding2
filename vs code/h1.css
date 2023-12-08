@@ -1,0 +1,24 @@
+h2{
+    font-family:Times;
+    font-size:20px;
+    color:#b58f32;
+    font-style:italic;
+    text-align:center;
+}
+p{
+    font-family:courier;
+    font-size:100%;
+    color:#E1E2E2;
+    text-align:center;
+    line-height:250%;
+}
+body{
+    background-color:#1D2228;
+}
+h1{
+    text-align:center;
+    font-family:Courier;
+    font-size:100%;
+    
+}
+
